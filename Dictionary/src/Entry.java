@@ -23,7 +23,7 @@ public class Entry {
     }
 }
 
-enum DataSource {
+enum DataSource { // This is created by AI
     // keyword, partOfSpeech, definition
 
     // --- Arrow (1) ---
